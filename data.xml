@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+<class>
+    <student rollno = "393">
+        <name>Yana</name>
+        <surname>Burbitskaya</surname>
+        <lastname>Viktorovna</lastname>
+        <birthday>15/07/2002</birthday>
+        <group>051002</group>
+        <id>223</id>
+        <role>user</role>
+    </student>
+
+    <student rollno = "395">
+        <name>Name</name>
+        <surname>Surname</surname>
+        <lastname>Lastname</lastname>
+        <birthday>10/07/2002</birthday>
+        <group>951004</group>
+        <id>211</id>
+        <role>user</role>
+    </student>
+
+    <student rollno = "505">
+        <name>Name1</name>
+        <surname>Surname1</surname>
+        <lastname>Lastname1</lastname>
+        <birthday>04/14/2003</birthday>
+        <group>051003</group>
+        <id>117</id>
+        <role>user</role>
+    </student>
+</class>
